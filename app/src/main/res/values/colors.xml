@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="theme_color">#33BBFF</color>
+
+
+
+    <color name="lightcoral">#f08080</color>
+    <color name="hotpink">#ff69b4</color>
+    <color name="khaki">#f0e68c</color>
+    <color name="gold">#ffd700</color>
+    <color name="cyan">#00ffff</color>
+    <color name="skyblue">#87ceed</color>
+    <color name="tomato">#ff6347</color>
+    <color name="lawngreen">#7cfc00</color>
+    <color name="lightgrey">#d3d3d3</color>
+    <color name="white">#ffffff</color>
+    <color name="pure">#00000000</color>
+
+
+    <!-- PopUp 타이틀바 -->
+    <color name="comm_popup_title_bg">#7fabf7</color>
+    <color name="comm_popup_title_fontColor">#157efb</color>
+    <color name="comm_popup_btn_bg">#157efb</color>
+    <color name="comm_listbutton_fontColor">#000000</color>
+</resources>
